@@ -2,10 +2,12 @@
   "format": 2,
   "name": {
     "en": "Dvalin (Stormterror)",
-    "ru": "Двалин (Ужас бури)"
+    "ru": "Двалин (Ужас бури)",
+    "jp": "トワリン (風魔龍)"
   },
   "description": {
-    "en": "The Dragon of the East. Can be fought once a week for special rewards."
+    "en": "The Dragon of the East. Can be fought once a week for special rewards.",
+    "jp": "週に一回戦うことができ、特別な報酬を手に入れることができます。"
   },
   "enabled": true,
   "cluster": "off",
