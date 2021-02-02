@@ -1,10 +1,12 @@
 {
   "format": 2,
   "name": {
-    "en": "Childe"
+    "en": "Childe",
+    "jp": "公子"
   },
   "description": {
-    "en": "Tartaglia, the Eleventh of the Eleven Fatui Harbingers. Can be fought once a week for special rewards."
+    "en": "Tartaglia, the Eleventh of the Eleven Fatui Harbingers. Can be fought once a week for special rewards.",
+    "jp": "週に一回戦うことができ、特別な報酬を手に入れることができます。"
   },
   "enabled": true,
   "cluster": "off",
