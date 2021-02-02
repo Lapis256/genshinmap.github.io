@@ -2,10 +2,12 @@
   "format": 2,
   "name": {
     "en": "Andrius (Lupus Boreas)",
-    "ru": "Андриус (Лупус Бореалис)"
+    "ru": "Андриус (Лупус Бореалис)",
+    "jp": "アンドリアス (北風の王狼)"
   },
   "description": {
-    "en": "The Wolf of the North. Can be fought once a week for special rewards."
+    "en": "The Wolf of the North. Can be fought once a week for special rewards.",
+    "jp": "週に一回戦うことができ、特別な報酬を手に入れることができます。"
   },
   "enabled": true,
   "cluster": "off",
