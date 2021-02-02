@@ -4,7 +4,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Stormterror's Lair"
+          "en": "Stormterror's Lair",
+          "jp": "風龍廃墟"
         },
         "region": "mondstadt"
       },
@@ -27,7 +28,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Brightcrown Canyon"
+          "en": "Brightcrown Canyon",
+          "jp": "明冠渓谷"
         },
         "region": "mondstadt"
       }
@@ -43,7 +45,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Wolvendom"
+          "en": "Wolvendom",
+          "jp": "奔狼領"
         },
         "region": "mondstadt"
       }
@@ -59,7 +62,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Dawn Winery"
+          "en": "Dawn Winery",
+          "jp": "アカツキワイナリー"
         },
         "region": "mondstadt"
       }
@@ -75,7 +79,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Springvale"
+          "en": "Springvale",
+          "jp": "清水町"
         },
         "region": "mondstadt"
       }
@@ -91,7 +96,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Windrise"
+          "en": "Windrise",
+          "jp": "風立ちの地"
         },
         "region": "mondstadt"
       }
@@ -107,7 +113,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Falcon Coast"
+          "en": "Falcon Coast",
+          "jp": "鷹飛びの浜"
         },
         "region": "mondstadt"
       }
@@ -123,7 +130,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Thousand Winds Temple"
+          "en": "Thousand Winds Temple",
+          "jp": "千風の神殿"
         },
         "region": "mondstadt"
       }
@@ -139,7 +147,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Starsnatch Cliff"
+          "en": "Starsnatch Cliff",
+          "jp": "星拾いの崖"
         },
         "region": "mondstadt"
       }
@@ -155,7 +164,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Whispering Woods"
+          "en": "Whispering Woods",
+          "jp": "囁きの森"
         },
         "region": "mondstadt"
       }
@@ -171,7 +181,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Starfell Lake"
+          "en": "Starfell Lake",
+          "jp": "星落としの湖"
         },
         "region": "mondstadt"
       }
@@ -187,7 +198,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Stormbearer Mountains"
+          "en": "Stormbearer Mountains",
+          "jp": "望風山地"
         },
         "region": "mondstadt"
       }
@@ -203,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Stormbearer Point"
+          "en": "Stormbearer Point",
+          "jp": "望風海角"
         },
         "region": "mondstadt"
       }
@@ -219,7 +232,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Dadaupa Gorge"
+          "en": "Dadaupa Gorge",
+          "jp": "ダダウパの谷"
         },
         "region": "mondstadt"
       }
@@ -235,7 +249,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Cape Oath"
+          "en": "Cape Oath",
+          "jp": "誓いの岬"
         },
         "region": "mondstadt"
       }
@@ -251,7 +266,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Musk Reef"
+          "en": "Musk Reef",
+          "jp": "マスク礁"
         },
         "region": "mondstadt"
       }
@@ -267,7 +283,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Mondstadt"
+          "en": "Mondstadt",
+          "jp": "モンド城"
         },
         "region": "mondstadt"
       }
@@ -283,7 +300,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Cider Lake"
+          "en": "Cider Lake",
+          "jp": "シードル湖"
         },
         "region": "mondstadt"
       }
@@ -299,7 +317,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Wuwang Hill"
+          "en": "Wuwang Hill",
+          "jp": "無妄の丘"
         },
         "region": "liyue"
       }
@@ -315,7 +334,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Qingce Village"
+          "en": "Qingce Village",
+          "jp": "軽策荘"
         },
         "region": "liyue"
       }
@@ -331,7 +351,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Stone Gate"
+          "en": "Stone Gate",
+          "jp": "石門"
         },
         "region": "liyue"
       }
@@ -347,7 +368,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Sal Terrae"
+          "en": "Sal Terrae",
+          "jp": "地中の塩"
         },
         "region": "liyue"
       }
@@ -363,7 +385,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Dihua Marsh"
+          "en": "Dihua Marsh",
+          "jp": "萩花州"
         },
         "region": "liyue"
       }
@@ -379,7 +402,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Wangshu Inn"
+          "en": "Wangshu Inn",
+          "jp": "望舒旅館"
         },
         "region": "liyue"
       }
@@ -395,7 +419,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Mingyun Village"
+          "en": "Mingyun Village",
+          "jp": "明蘊村"
         },
         "region": "liyue"
       }
@@ -411,7 +436,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Yaoguang Shoal"
+          "en": "Yaoguang Shoal",
+          "jp": "瑶光の浜"
         },
         "region": "liyue"
       }
@@ -427,7 +453,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Guili Plains"
+          "en": "Guili Plains",
+          "jp": "帰離原"
         },
         "region": "liyue"
       }
@@ -443,7 +470,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Guyun Stone Forest"
+          "en": "Guyun Stone Forest",
+          "jp": "群玉閣"
         },
         "region": "liyue"
       }
@@ -459,7 +487,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Luhua Pool"
+          "en": "Luhua Pool",
+          "jp": "漉華の池"
         },
         "region": "liyue"
       }
@@ -475,7 +504,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Mt. Tianheng"
+          "en": "Mt. Tianheng",
+          "jp": "天衡山"
         },
         "region": "liyue"
       }
@@ -491,7 +521,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Liyue Harbor"
+          "en": "Liyue Harbor",
+          "jp": "璃月港"
         },
         "region": "liyue"
       }
@@ -507,7 +538,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Dunyu Ruins"
+          "en": "Dunyu Ruins",
+          "jp": "遁玉の丘"
         },
         "region": "liyue"
       }
@@ -523,7 +555,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Lingju Pass"
+          "en": "Lingju Pass",
+          "jp": "霊矩関"
         },
         "region": "liyue"
       }
@@ -539,7 +572,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Qingxu Pool"
+          "en": "Qingxu Pool",
+          "jp": "青墟浦"
         },
         "region": "liyue"
       }
@@ -555,7 +589,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Chasm"
+          "en": "Chasm",
+          "jp": "層岩巨淵"
         },
         "region": "liyue"
       }
@@ -571,7 +606,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Tianqiu Valley"
+          "en": "Tianqiu Valley",
+          "jp": "天穹の谷"
         },
         "region": "liyue"
       }
@@ -587,7 +623,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Nantianmen"
+          "en": "Nantianmen",
+          "jp": "南天門"
         },
         "region": "liyue"
       }
@@ -603,7 +640,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Cuijue Slope"
+          "en": "Cuijue Slope",
+          "jp": "翠決坡"
         },
         "region": "liyue"
       }
@@ -619,7 +657,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Jueyun Karst"
+          "en": "Jueyun Karst",
+          "jp": "絶雲の間"
         },
         "region": "liyue"
       }
@@ -635,7 +674,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Qingyun Peak"
+          "en": "Qingyun Peak",
+          "jp": "慶雲頂"
         },
         "region": "liyue"
       }
@@ -651,7 +691,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Huaguang Stone Forest"
+          "en": "Huaguang Stone Forest",
+          "jp": "華光の林"
         },
         "region": "liyue"
       }
@@ -667,7 +708,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Mt. Hulao"
+          "en": "Mt. Hulao",
+          "jp": "琥牢山"
         },
         "region": "liyue"
       }
@@ -683,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Mt. Aozang"
+          "en": "Mt. Aozang",
+          "jp": "奥蔵山"
         },
         "region": "liyue"
       }
@@ -699,7 +742,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Snow-Covered Path"
+          "en": "Snow-Covered Path",
+          "jp": "積雪の道"
         },
         "region": "dragonspine"
       }
@@ -715,7 +759,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Wyrmrest Valley"
+          "en": "Wyrmrest Valley",
+          "jp": "龍眠の谷"
         },
         "region": "dragonspine"
       }
@@ -731,7 +776,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Entombed City - Outskirts"
+          "en": "Entombed City - Outskirts",
+          "jp": "雪葬の都・近郊"
         },
         "region": "dragonspine"
       }
@@ -747,7 +793,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Entombed City - Ancient Palace"
+          "en": "Entombed City - Ancient Palace",
+          "jp": "雪葬の都・旧宮"
         },
         "region": "dragonspine"
       }
@@ -763,7 +810,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Skyfrost Nail"
+          "en": "Skyfrost Nail",
+          "jp": "寒天の釘"
         },
         "region": "dragonspine"
       }
@@ -779,7 +827,8 @@
       "type": "Feature",
       "properties": {
         "label": {
-          "en": "Starglow Cavern"
+          "en": "Starglow Cavern",
+          "jp": "星蛍の洞窟"
         },
         "region": "dragonspine"
       }
