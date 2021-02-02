@@ -48,6 +48,10 @@ const formatFlag = (value) => {
       // 'zh' should display the Chinese flag.
       flagCode = 'cn';
       break;
+    case 'ja':
+      // 'ja' should display the Japanese flag.
+      flagCode = 'jp';
+      break;
     default:
       // No override.
       break;
